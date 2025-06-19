@@ -10,7 +10,9 @@ My journey into cybersecurity is driven by a desire to deepen my understanding o
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
--
+| Mock Penetration Test          | <a href="https://github.com/Travis-Davenport/Penetration-Test/blob/main/README.md">Penetration Test</a>|
+
+
 ## 📜 Certifications
 
 <div>

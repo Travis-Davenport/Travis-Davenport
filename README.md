@@ -12,7 +12,16 @@ My journey into cybersecurity is driven by a desire to deepen my understanding o
 |-----------------------------------------------|----------------------------|
 | Mock Penetration Test          | <a href="https://github.com/Travis-Davenport/Penetration-Test/blob/main/README.md">Penetration Test</a>|
 
+## Tools
+<div>
+  
+<img src="https://img.shields.io/badge/-Nmap-3982CE?style=for-the-badge&logo=semantic-release&logoColor=white" />
+<img src="https://img.shields.io/badge/-Metasploit-1C1C1C?style=for-the-badge&logo=HackTheBox&logoColor=white" />
+<img src="https://img.shields.io/badge/-Netcat-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/-msfvenom-8200D2?style=for-the-badge&logo=exploitdb&logoColor=white" />
 
+<div>
+  
 ## 📜 Certifications
 
 <div>
@@ -28,4 +37,4 @@ My journey into cybersecurity is driven by a desire to deepen my understanding o
 </div>
 
 ## Projects
-- 
+- Penetration Test

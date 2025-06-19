@@ -10,6 +10,7 @@ My journey into cybersecurity is driven by a desire to deepen my understanding o
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+-
 ## 📜 Certifications
 
 <div>
